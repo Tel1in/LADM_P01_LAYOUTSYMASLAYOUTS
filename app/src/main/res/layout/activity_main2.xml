@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:contentDescription="@null"
+    android:padding="15dp"
+    tools:context=".MainActivity2">
+
+    <TableRow android:padding="10dp"
+        android:layout_marginBottom="20dp">
+
+        <ImageView android:layout_weight="1" />
+        <ImageView android:src="@drawable/puntos" android:layout_weight="0">
+        </ImageView>
+
+    </TableRow>
+
+    <TableRow android:padding="10dp"
+        android:layout_marginBottom="1dp">
+        <ImageView android:src="@drawable/qeqqw" android:layout_weight="1">
+
+        </ImageView>
+
+    </TableRow>
+
+    <TableRow android:padding="1dp"
+        android:layout_marginBottom="2dp">
+        <TextView
+            android:text="                          Mike wazowski"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="#0000FF"
+            />
+
+    </TableRow>
+
+    <TableRow android:padding="1dp"
+        android:layout_marginBottom="20dp">
+        <TextView
+            android:text="                                        02135112617"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            />
+
+    </TableRow>
+
+    <TableRow android:padding="1dp"
+        android:layout_marginBottom="20dp">
+        <ImageView android:src="@drawable/as" android:layout_weight="1">
+
+        </ImageView>
+
+    </TableRow>
+
+    <TableRow android:padding="1dp"
+        android:layout_marginBottom="20dp">
+        <TextView
+            android:text="                                 Enter your password"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            />
+
+    </TableRow>
+
+    <TableRow android:padding="1dp"
+        android:layout_marginBottom="20dp">
+
+
+        <androidx.gridlayout.widget.GridLayout
+            app:columnCount="3"
+            app:rowCount="4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="30dp"
+            android:padding="20dp">
+
+            <ImageView android:src="@drawable/uno"  >
+
+            </ImageView>
+
+            <ImageView android:src="@drawable/dos"  >
+
+            </ImageView>
+            <ImageView android:src="@drawable/tres"  >
+
+            </ImageView>
+            <ImageView android:src="@drawable/cuatro"  >
+
+            </ImageView>
+            <ImageView android:src="@drawable/cinco"  >
+
+            </ImageView>
+            <ImageView android:src="@drawable/seis"  >
+
+            </ImageView>
+            <ImageView android:src="@drawable/siete"  >
+
+            </ImageView><ImageView android:src="@drawable/ocho"  >
+
+        </ImageView><ImageView android:src="@drawable/nueve"  >
+
+        </ImageView><ImageView android:src="@drawable/auras"  >
+
+        </ImageView><ImageView android:src="@drawable/cero"  >
+
+        </ImageView><ImageView android:src="@drawable/aaeqwe"  >
+
+        </ImageView>
+
+        </androidx.gridlayout.widget.GridLayout>
+    </TableRow>
+</TableLayout>

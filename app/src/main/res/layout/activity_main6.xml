@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity6">
+
+    <TableRow
+        android:background="@color/purple_200"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+
+        >
+        <LinearLayout
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MISION"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AUSTRIA 2015"
+                android:textSize="15sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="DESTUIR EL ALA ESTE DE LA CATEDRAL"
+                android:textSize="10sp"
+                />
+        </LinearLayout>
+    </TableRow>
+
+    <TableRow
+        android:background="#78C549"
+        android:layout_marginBottom="10dp"
+        >
+        <LinearLayout
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HJM"
+                android:textSize="40sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="174000986**********44563"
+                android:textSize="15sp"
+                />
+        </LinearLayout>
+    </TableRow>
+
+    <TableRow
+        android:background="#DF1229"
+        android:layout_marginBottom="10dp"
+        >
+        <LinearLayout
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="IGBI"
+                android:textSize="40sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="INSURGENTE ENTRE MEXICO Y JALISCO"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CUIDAD TEPIC NAYARIT MEXICO"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CODIGO POSTAL 36000"
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+    </TableRow>
+
+    <TableRow
+        android:background="#757ECD"
+        android:layout_marginBottom="10dp"
+        >
+        <LinearLayout
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1754 **** **** 1452"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HSBC"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="20sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TARJETA DE DEBITO                                  12/25"
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+    </TableRow>
+
+    <TableRow
+        android:background="#D65145"
+        android:layout_marginBottom="10dp"
+        >
+        <LinearLayout
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="YOUNG"
+                android:textSize="40sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Esta hisoria cuenta la aventura.."
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+    </TableRow>
+
+    <TableRow
+        android:background="#520C471F"
+        android:layout_marginBottom="10dp"
+        >
+        <LinearLayout
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="los datos registrados estan validados "
+                android:textSize="20sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="con la empresa  "
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+    </TableRow>
+
+
+
+
+</TableLayout>

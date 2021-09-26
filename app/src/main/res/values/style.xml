@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GreenText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#00FF00</item>
+    </style>
+
+    <style name="formato">
+        <item name="android:padding">20dp</item>
+        <item name="background">@color/white</item>
+        <item name="android:layout_marginLeft">30dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:orientation">vertical</item>
+
+    </style>
+</resources>
